@@ -1,6 +1,6 @@
 # Kext-Droplet-Big-Sur
 
-### Simple Utility for installing kexts in macOS
+### Simple Utility for installing kexts in macOS Big Sur 10.16
 - Lattest Update 26 June 2020
 
 # Kext-Droplet
