@@ -1,6 +1,7 @@
 # Kext-Droplet-Big-Sur
 
 ### Simple Utility for installing kexts in macOS Big Sur 10.16
+- Kexts is installed in /Library/Extensions
 - Lattest Update 26 June 2020
 
 # Kext-Droplet
