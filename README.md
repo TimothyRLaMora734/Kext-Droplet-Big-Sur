@@ -11,3 +11,5 @@
 
 
 #### Download Release V2 ➤ [Kext-Droplet.dmg.zip](https://github.com/chris1111/Kext-Droplet-Big-Sur/releases/tag/V1)
+
+##### NOTE: this program is not responsible for any damage or machine that does not boot anymore.
